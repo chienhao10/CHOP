@@ -5,4 +5,5 @@
 Breb移植脚本地址源：http://bit.ly/1N8r0td
 国内源：http://bit.ly/chosgit 
 国外源：http://bit.ly/chgithub
-最强源：http://bit.ly/zuiqiang
+最强国外源：http://bit.ly/zuiqiang
+最强国内源http://bit.ly/oszuiqiang

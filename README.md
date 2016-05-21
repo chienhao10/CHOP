@@ -1,5 +1,5 @@
 # CHOP
-最强合集--整合好用的EB脚本切成熟的！而非过期未更新的！
+最强合集--整合好用的EB脚本且成熟的！而非过期未更新的！
 
 ##[国内源:](http://bit.ly/chosgit)
 http://bit.ly/chosgit
